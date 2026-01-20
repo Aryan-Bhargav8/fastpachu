@@ -1,0 +1,6 @@
+# pycache folder and files
+__pycache__
+app/routes/__pycache__
+
+# env variables
+.env
